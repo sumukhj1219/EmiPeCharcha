@@ -1,0 +1,102 @@
+[
+    {
+        "id":1,
+        "bank":"HDFC Bank",
+        "tag_1":"10 Second Disbursal*",
+        "tag_2":"100% Digital Process*",
+        "principal":"Up to 40L",
+        "roi":"10.9% - 24%",
+        "tenure":"Upto 6 Years",
+        "fee":"6500"
+    },
+    {
+        "id":2,
+        "bank":"Axis Bank",
+        "tag_1":"Low Processing fee",
+        "tag_2":null,
+        "principal":"Up to 10L",
+        "roi":"11.25% - 22%",
+        "tenure":"Upto 5 Years",
+        "fee":"Upto 2%"
+    },
+    {
+        "id":3,
+        "bank":"Kotak Mahindra Bank",
+        "tag_1":"Lowest Income requirement",
+        "tag_2":"100% Digital Process*",
+        "principal":"Up to 35L",
+        "roi":"10.99% - 16.9%",
+        "tenure":"Upto 6 Years",
+        "fee":"Upto 5%"
+    },
+    {
+        "id":4,
+        "bank":"IDFC FIRST Bank",
+        "tag_1":"Max Loan Amount",
+        "tag_2":"100% Digital Process*",
+        "principal":"Up to 10L",
+        "roi":"10.99% - 23.99%",
+        "tenure":"Upto 5 Years",
+        "fee":"Upto 2%"
+    },
+    {
+        "id":5,
+        "bank":"ICICI Bank",
+        "tag_1":"100% Digital Process*",
+        "tag_2":"Quick Disbursal",
+        "principal":"Up to 50L",
+        "roi":"10.85% - 16.65%",
+        "tenure":"1-6 Years",
+        "fee":"Upto 2%"
+    },
+    {
+        "id":6,
+        "bank":"Yes Bank",
+        "tag_1":"100% Digital Process*",
+        "tag_2":"Quick Disbursal",
+        "principal":"Up to 40L",
+        "roi":"11.25% - 21%",
+        "tenure":"Upto 5 Years",
+        "fee":"0% - 2.5%"
+    },
+    {
+        "id":7,
+        "bank":"Tata Capital Limited",
+        "tag_1":"100% Digital Process*",
+        "tag_2":null,
+        "principal":"Up to 50L",
+        "roi":"11.99% - 35%",
+        "tenure":"Upto 7 Years",
+        "fee":"Upto 4%"
+    },
+    {
+        "id":8,
+        "bank":"IndusInd Bank",
+        "tag_1":"Lowest Income requirement",
+        "tag_2":"Quick Disbursal",
+        "principal":"Up to 50L",
+        "roi":"10.49% - 26%",
+        "tenure":"1-7 Years",
+        "fee":"Upto 4%"
+    },
+    {
+        "id":9,
+        "bank":"Federal Bank",
+        "tag_1":"Lowest Income requirement",
+        "tag_2":"100% Digital Process*",
+        "principal":"Up to 5L",
+        "roi":"12% - 22.5%",
+        "tenure":"1-4 Years",
+        "fee":"1.5% - 2.5%"
+    },
+    {
+        "id":10,
+        "bank":"RBL Bank",
+        "tag_1":"100% Digital Process*",
+        "tag_2":"Quick Disbursal",
+        "principal":"Up to 5L",
+        "roi":"18% - 26%",
+        "tenure":"Upto 3 Years",
+        "fee":"Upto 2%"
+    }
+]
